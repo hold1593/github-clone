@@ -52,6 +52,6 @@ GitHub 메인 화면을 clone conding 한 것 입니다.
 ![github5](https://user-images.githubusercontent.com/60214107/105949609-4995d980-60b0-11eb-9737-60e733be149b.PNG)
 ![github6](https://user-images.githubusercontent.com/60214107/105949613-4b5f9d00-60b0-11eb-801b-98c55eb53c58.PNG)
 
-> 해당 프로젝트는 **패스트캠퍼스 전웅재 강사님** 의 미니 프로젝트를 클론 코딩한 것입니다.
+> 해당 프로젝트는 **패스트캠퍼스 박영웅(Heropy) 강사님** 의 미니 프로젝트를 클론 코딩한 것입니다.
 
-> 구글맵 인증도 **패스크 캠퍼스 전웅재 강사님** 의 인증 코드를 사용하였습니다.
+> 구글맵 인증도 **패스크 캠퍼스 박영웅(Heropy) 강사님** 의 인증 코드를 사용하였습니다.

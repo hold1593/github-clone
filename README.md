@@ -44,6 +44,7 @@ GitHub 메인 화면을 clone conding 한 것 입니다.
 ![github3](https://user-images.githubusercontent.com/60214107/105949272-c6748380-60af-11eb-94d6-286c9bd73a46.PNG)
 ![github4](https://user-images.githubusercontent.com/60214107/105949276-c7a5b080-60af-11eb-9c6e-b92d44a93a16.PNG)
 ![github2](https://user-images.githubusercontent.com/60214107/105949440-09cef200-60b0-11eb-9480-60763737033a.PNG)
+![github7](https://user-images.githubusercontent.com/60214107/105949839-bad58c80-60b0-11eb-8474-fcf73e4668ae.PNG)
 
 ### 768px ~ 1024px (모니터)
 
